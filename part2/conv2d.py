@@ -4,7 +4,6 @@ import math
 import neuronxcc.nki as nki
 import neuronxcc.nki.language as nl
 import neuronxcc.nki.isa as nisa
-from neuronxcc.nki import baremetal
 
 PSUM_DTYPE = nl.float32
 
